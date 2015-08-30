@@ -1,0 +1,13 @@
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\bin\Debug\RentalBilling.exe
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\bin\Debug\RentalBilling.pdb
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\bin\Debug\RentalBilling.xml
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.frmConcessionaire.resources
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.frmMain.resources
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.Resources.resources
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.vbproj.GenerateResource.Cache
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.exe
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.xml
+C:\Users\keith\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\RentalBilling\RentalBilling\obj\x86\Debug\RentalBilling.pdb
